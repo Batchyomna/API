@@ -85,7 +85,6 @@
          });
  
  */
-
         //-------------------------------------function va lancer quand il aure changemet dans l'input
         document.getElementById("myInput").oninput = myfunction;
         function myfunction(e) {
